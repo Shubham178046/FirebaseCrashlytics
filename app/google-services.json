@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "291008104050",
+    "firebase_url": "https://error-50087.firebaseio.com",
+    "project_id": "error-50087",
+    "storage_bucket": "error-50087.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:291008104050:android:38670524e7666ace4c24eb",
+        "android_client_info": {
+          "package_name": "com.example.firebasecrashlytics"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "291008104050-ohjia04gac8su5mrps7ogrjdgs407f4c.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.example.firebasecrashlytics",
+            "certificate_hash": "3e67be26d0a3bf43319b3a9e8696b78a0dc4e216"
+          }
+        },
+        {
+          "client_id": "291008104050-1lnbf5cj40e1qvkmnmvreobaurq6l49v.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyATRfT2ffzSBOPlWVoouO-ctToyeNlu0wc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "291008104050-1lnbf5cj40e1qvkmnmvreobaurq6l49v.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
